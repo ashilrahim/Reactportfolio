@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Reactportfolio/static/css/main.525b8235.css",
+    "main.js": "/Reactportfolio/static/js/main.50519262.js",
+    "static/media/fa-solid-900.ttf": "/Reactportfolio/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/double.jpg": "/Reactportfolio/static/media/double.f2bfb6de952ecd6bef1e.jpg",
+    "static/media/fa-brands-400.ttf": "/Reactportfolio/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Reactportfolio/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/plants.jpg": "/Reactportfolio/static/media/plants.f042cd3b8343abe8cd72.jpg",
+    "static/media/ashil.jpg": "/Reactportfolio/static/media/ashil.36b470b864c735ec3b24.jpg",
+    "static/media/fa-brands-400.woff2": "/Reactportfolio/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/Drum.jpg": "/Reactportfolio/static/media/Drum.0b34f8e740b86f36af60.jpg",
+    "static/media/fa-regular-400.ttf": "/Reactportfolio/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Reactportfolio/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Reactportfolio/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Reactportfolio/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/Reactportfolio/index.html",
+    "main.525b8235.css.map": "/Reactportfolio/static/css/main.525b8235.css.map",
+    "main.50519262.js.map": "/Reactportfolio/static/js/main.50519262.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525b8235.css",
+    "static/js/main.50519262.js"
+  ]
+}
